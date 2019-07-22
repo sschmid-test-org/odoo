@@ -17,3 +17,4 @@ class AccountIncoterms(models.Model):
     active = fields.Boolean(
         'Active', default=True,
         help="By unchecking the active field, you may hide an INCOTERM you will not use.")
+ergwwerg
